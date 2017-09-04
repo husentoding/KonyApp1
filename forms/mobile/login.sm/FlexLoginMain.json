@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4eb04ccbca0429aa772931eb490df98",
+    "_top_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "78%"
+    },
+    "children": [
+        "tboxUsername",
+        "tboxPassword",
+        "FlexLoginSub"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexLoginMain",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e7835211bf8b487f8c5ec756cf8b2e6b",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexLogin",
+    "pf": "login",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

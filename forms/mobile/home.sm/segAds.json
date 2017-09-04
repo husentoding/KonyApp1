@@ -1,0 +1,146 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgAd": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "travel_ad1.png"
+            },
+            "labelLongText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "When you book a flight + a hotel to any Tropical Destination"
+            },
+            "labelSave25": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SAVE 25%"
+            }
+        },
+        {
+            "imgAd": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "travel_ad1.png"
+            },
+            "labelLongText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "When you book a flight + a hotel to any Tropical Destination"
+            },
+            "labelSave25": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SAVE 25%"
+            }
+        },
+        {
+            "imgAd": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "travel_ad1.png"
+            },
+            "labelLongText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "When you book a flight + a hotel to any Tropical Destination"
+            },
+            "labelSave25": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SAVE 25%"
+            }
+        }
+    ],
+    "_height_": "35%",
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAds",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "cc62fcddc2544c2eb93e4a79b4a5063b",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxScrollMainData",
+    "pf": "home",
+    "retainselection": false,
+    "rowTemplateId": "i83f7bc1c01f42a499abb3ed4f9009b6",
+    "rowcounter": 2,
+    "rowfocusskin": "sfd819f681fe41c38b9284340de35164",
+    "rowskin": "sb13022e8e7e4b64a6cb1b9b5ce281a1",
+    "rowtemplate": "FlexContainer0b36b26f02fdb47",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s4b9a933094f47d48f949dab09328eec",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 750,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0b36b26f02fdb47": "FlexContainer0b36b26f02fdb47",
+        "FlexContainer0f25d3ca3658744": "FlexContainer0f25d3ca3658744",
+        "FlexContainer0gea2f3c027a642": "FlexContainer0gea2f3c027a642",
+        "imgAd": "imgAd",
+        "labelLongText": "labelLongText",
+        "labelSave25": "labelSave25"
+    },
+    "zindex": 1
+}

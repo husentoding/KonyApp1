@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSwitch",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "203dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf940ee0d29843e5a7def5ad4f63cc84",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "75%"
+    },
+    "containerweight": 100,
+    "id": "switchRememberMe",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "e99c3c9d960e4398999b3ee39f26aa81",
+    "leftsidetext": "ON",
+    "name": "kony.ui.Switch",
+    "onslide": null,
+    "osPlatform": "iphone",
+    "osVersion": "iOS7",
+    "parent": "FlexLoginSub",
+    "pf": "login",
+    "rightsidetext": "OFF",
+    "selectedindex": 0,
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "zindex": 1
+}

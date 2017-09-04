@@ -1,0 +1,57 @@
+{
+    "AS_Form_cfe125bc641b4cba8418b21a53c2bb4f": {
+        "id": "AS_Form_cfe125bc641b4cba8418b21a53c2bb4f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "start",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c93144ee320c45e297d463c7508991dc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____i2534ffdede342fea88e44059725dac4",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "start",
+            "widgetId": "FlexLogoImg",
+            "itemKUID": "c93144ee320c45e297d463c7508991dc",
+            "widgetKUID": "h15e6600cabd49d89cf1631c4eeb2bc0",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "bottom": "60%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "500",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "1000"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____i2534ffdede342fea88e44059725dac4",
+            "displayAnimationId": "MOVE_ACTION____i2534ffdede342fea88e44059725dac4",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "start.FlexLogoImg"
+        }, {
+            "id": "NAVIGATE_TO_FORM___ea8c900f2ddc4f868988d0a7006da21c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "login",
+            "formKUID": "j2b8d6039da84bd7a58e2832c1b95cc5",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "MOVE_ACTION____i2534ffdede342fea88e44059725dac4",
+            "callbackType": "Callback",
+            "enableMappingEditor": true
+        }]
+    }
+}
